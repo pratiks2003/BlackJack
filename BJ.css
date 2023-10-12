@@ -1,0 +1,30 @@
+body{
+
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(bjbg1.jpeg);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    color: aliceblue;
+    font-weight:bold ;
+}
+h1{
+
+    color: goldenrod;
+    font-weight:bolder ;
+    text-size-adjust: 45px;
+}
+button{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: goldenrod;
+    border: none;
+    size: 100px;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#cardEl{
+/* text-decoration: underline; */
+
+}
